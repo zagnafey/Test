@@ -12,7 +12,7 @@ public class Main {
         comp.setHdd(500);
         comp.setRam(100);*/
         
-        //PRIVET GIT
+        //PRIVET GIT kykykyk
 
         comp.on();
         comp.load();
