@@ -11,6 +11,8 @@ public class Main {
        comp.setName("ACER");
         comp.setHdd(500);
         comp.setRam(100);*/
+        
+        //PRIVET GIT
 
         comp.on();
         comp.load();
